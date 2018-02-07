@@ -1,0 +1,9 @@
+b2 c++ c++ dsmalik 100
+b3 c# c# uzair 100
+b4 asp asp hussain 100
+b5 sql sql ammar 100
+d6 c++ c++ 1.5
+d7 c# c# 1.5
+d8 asp asp 1.5
+d9 sql sql 1.5
+b1 abc abc abc 12

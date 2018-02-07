@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\uzair hassan\desktop\ooad assign\ooad assign\computation.h(51): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\uzair hassan\desktop\ooad assign\ooad assign\computation.h(108): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  ooad assign.vcxproj -> C:\Users\Uzair Hassan\Desktop\ooad assign\Debug\ooad assign.exe
+  ooad assign.vcxproj -> C:\Users\Uzair Hassan\Desktop\ooad assign\Debug\ooad assign.pdb (Full PDB)
